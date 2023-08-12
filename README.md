@@ -3,6 +3,7 @@
 Here's a summary of what code does step by step:
 
 ## 1.Import the necessary libraries and read the CSV file into a pandas DataFrame.
+
 ## 2.Check the shape and display the first 5 rows of the DataFrame.
 ## 3.Check the distribution of labels in the 'label' column.
 ## 4.Map the labels to numerical values in a new 'label_num' column.
